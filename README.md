@@ -4,4 +4,4 @@ framework.  Scripts embedded, aid the generation of a comprehensive data set fro
 (FAO, World Bank, WorldClim etc.)  and the subsequent Bayesian analysis including data wrangling,
 prior selection, model fitting, model comparison, MCMC diagnostics, and posterior predictive checks.
 
-[Analysis](https://github.com/mariusderenthal/AppliedStats_Bayes/edit/master/README.md)
+[Analysis](https://github.com/mariusderenthal/AppliedStats_Bayes/blob/master/app_bayesian_stats.md)
