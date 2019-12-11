@@ -3,3 +3,5 @@ Scripts  to  analyse  the  water  demand  -  supply  feedback  cycle  in  a  a  
 framework.  Scripts embedded, aid the generation of a comprehensive data set from various data sources
 (FAO, World Bank, WorldClim etc.)  and the subsequent Bayesian analysis including data wrangling,
 prior selection, model fitting, model comparison, MCMC diagnostics, and posterior predictive checks.
+
+[Contribution guidelines for this project](AppliedStats_bayes/app_bayesian_stats.Rmd)
