@@ -454,8 +454,8 @@ loo1.1 <- loo(fit1.1)
     ## 
     ##        elpd_diff se_diff
     ## fit1.1   0.0       0.0  
-    ## fit1   -18.4       2.8  
-    ## fit0   -38.0      10.4
+    ## fit1   -18.5       2.8  
+    ## fit0   -38.2      10.4
 
 ``` r
 #choose model based on comparison
@@ -482,16 +482,16 @@ summary(fit)
     ## pop_dens        -0.3    0.0   -0.4   -0.3   -0.3   -0.2   -0.2 
     ## sigma            0.9    0.0    0.9    0.9    0.9    0.9    1.0 
     ## mean_PPD         0.0    0.1   -0.1    0.0    0.0    0.0    0.1 
-    ## log-posterior -604.3    1.4 -608.0 -605.0 -604.0 -603.3 -602.6 
+    ## log-posterior -604.3    1.4 -608.0 -605.0 -603.9 -603.2 -602.5 
     ## 
     ## Diagnostics:
     ##               mcse Rhat n_eff
-    ## (Intercept)   0.0  1.0  4989 
-    ## tot_wat_per   0.0  1.0  5538 
-    ## pop_dens      0.0  1.0  5499 
-    ## sigma         0.0  1.0  5471 
-    ## mean_PPD      0.0  1.0  4436 
-    ## log-posterior 0.0  1.0  1694 
+    ## (Intercept)   0.0  1.0  5775 
+    ## tot_wat_per   0.0  1.0  5206 
+    ## pop_dens      0.0  1.0  5421 
+    ## sigma         0.0  1.0  4551 
+    ## mean_PPD      0.0  1.0  4714 
+    ## log-posterior 0.0  1.0  1647 
     ## 
     ## For each parameter, mcse is Monte Carlo standard error, n_eff is a crude measure of effective sample size, and Rhat is the potential scale reduction factor on split chains (at convergence Rhat=1).
 

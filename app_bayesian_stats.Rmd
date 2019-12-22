@@ -3,6 +3,7 @@ title: "Applied Bayesian Statistics"
 author: "Marius Derenthal"
 #date: "`r Sys.Date()`"
 output: github_document
+number_sections: true
 ---
 
 # introduction
